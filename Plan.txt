@@ -1,0 +1,27 @@
+Planning
+Have a purpose
+Update the planning if needed and update before changes are made
+
+
+Github
+Commit every day
+Write an evaluation
+
+
+Files
+(documentation)
+original/
+psd/
+misc/
+("what is shown" website)
+site/
+    css/
+    js/
+    img/
+    sass/
+
+
+Composition and structure
+Rule o thirds
+Easy to use navigation- and menusystem
+Real text
